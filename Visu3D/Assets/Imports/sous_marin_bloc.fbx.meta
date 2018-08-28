@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 35b91cf472808ad49bfd9eae952f579f
+timeCreated: 1524145175
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: attache_poteau
+    100002: boitier_electrique.01
+    100004: boitier_hydraulique.000
+    100006: boitier_hydraulique.01
+    100008: boitier_hydraulique.02
+    100010: boitier_hydraulique.03
+    100012: boitier_hydraulique.04
+    100014: boitier_hydraulique.05
+    100016: boitier_hydraulique.06
+    100018: cambuse
+    100020: carlingage.01
+    100022: carlingage.02
+    100024: crochet.01
+    100026: crochet.02
+    100028: detecteur_incendies
+    100030: lampe
+    100032: ossature_sous_marin.01
+    100034: ossature_sous_marin.02
+    100036: ossature_sous_marin.03
+    100038: poteau
+    100040: poutre_longitudinale.01
+    100042: poutre_longitudinale.02
+    100044: poutre_transversale.01
+    100046: poutre_transversale.02
+    100048: poutre_transversale.03
+    100050: //RootNode
+    100052: Cube
+    400000: attache_poteau
+    400002: boitier_electrique.01
+    400004: boitier_hydraulique.000
+    400006: boitier_hydraulique.01
+    400008: boitier_hydraulique.02
+    400010: boitier_hydraulique.03
+    400012: boitier_hydraulique.04
+    400014: boitier_hydraulique.05
+    400016: boitier_hydraulique.06
+    400018: cambuse
+    400020: carlingage.01
+    400022: carlingage.02
+    400024: crochet.01
+    400026: crochet.02
+    400028: detecteur_incendies
+    400030: lampe
+    400032: ossature_sous_marin.01
+    400034: ossature_sous_marin.02
+    400036: ossature_sous_marin.03
+    400038: poteau
+    400040: poutre_longitudinale.01
+    400042: poutre_longitudinale.02
+    400044: poutre_transversale.01
+    400046: poutre_transversale.02
+    400048: poutre_transversale.03
+    400050: //RootNode
+    400052: Cube
+    2100000: crochets_poteaux
+    2100002: carlingage
+    2100004: metal
+    2100006: conduite
+    2100008: elec
+    2100010: plastique
+    2100012: lampe
+    2100014: poutres
+    2100016: murs
+    2100018: No Name
+    2300000: attache_poteau
+    2300002: boitier_electrique.01
+    2300004: boitier_hydraulique.000
+    2300006: boitier_hydraulique.01
+    2300008: boitier_hydraulique.02
+    2300010: boitier_hydraulique.03
+    2300012: boitier_hydraulique.04
+    2300014: boitier_hydraulique.05
+    2300016: boitier_hydraulique.06
+    2300018: cambuse
+    2300020: carlingage.01
+    2300022: carlingage.02
+    2300024: crochet.01
+    2300026: crochet.02
+    2300028: detecteur_incendies
+    2300030: lampe
+    2300032: ossature_sous_marin.01
+    2300034: ossature_sous_marin.02
+    2300036: ossature_sous_marin.03
+    2300038: poteau
+    2300040: poutre_longitudinale.01
+    2300042: poutre_longitudinale.02
+    2300044: poutre_transversale.01
+    2300046: poutre_transversale.02
+    2300048: poutre_transversale.03
+    2300050: //RootNode
+    2300052: Cube
+    3300000: attache_poteau
+    3300002: boitier_electrique.01
+    3300004: boitier_hydraulique.000
+    3300006: boitier_hydraulique.01
+    3300008: boitier_hydraulique.02
+    3300010: boitier_hydraulique.03
+    3300012: boitier_hydraulique.04
+    3300014: boitier_hydraulique.05
+    3300016: boitier_hydraulique.06
+    3300018: cambuse
+    3300020: carlingage.01
+    3300022: carlingage.02
+    3300024: crochet.01
+    3300026: crochet.02
+    3300028: detecteur_incendies
+    3300030: lampe
+    3300032: ossature_sous_marin.01
+    3300034: ossature_sous_marin.02
+    3300036: ossature_sous_marin.03
+    3300038: poteau
+    3300040: poutre_longitudinale.01
+    3300042: poutre_longitudinale.02
+    3300044: poutre_transversale.01
+    3300046: poutre_transversale.02
+    3300048: poutre_transversale.03
+    3300050: //RootNode
+    3300052: Cube
+    4300000: poteau
+    4300002: attache_poteau
+    4300004: carlingage.02
+    4300006: carlingage.01
+    4300008: crochet.02
+    4300010: boitier_hydraulique.000
+    4300012: detecteur_incendies
+    4300014: boitier_electrique.01
+    4300016: boitier_hydraulique.06
+    4300018: lampe
+    4300020: boitier_hydraulique.04
+    4300022: boitier_hydraulique.05
+    4300024: boitier_hydraulique.03
+    4300026: boitier_hydraulique.02
+    4300028: boitier_hydraulique.01
+    4300030: crochet.01
+    4300032: poutre_transversale.03
+    4300034: ossature_sous_marin.01
+    4300036: poutre_longitudinale.02
+    4300038: ossature_sous_marin.03
+    4300040: cambuse
+    4300042: Cube
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

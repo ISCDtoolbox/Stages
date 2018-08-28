@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1a4a59922620cb428e3b91a985eea2b
+timeCreated: 1530182566
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pipePrefab: {fileID: 1527678742255930, guid: 07f7ec77c2f27d646a2da2aea7729701,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
